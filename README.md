@@ -12,3 +12,8 @@ I decided to analyse this race and answer a few basic questions:
 
 > What are differences between males and females results?
 
+
+# NBviewer link
+To see full visualisation of plot.ly charts go to:
+
+https://nbviewer.jupyter.org/github/klistiano/bieg_niepodleglosci_analysis/blob/master/Race_analysis.ipynb
